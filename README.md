@@ -198,7 +198,7 @@ Dashboard includes:
 ### Price Distribution
 
 
-<img width="2092" height="1506" alt="Price Distribution" src="https://github.com/user-attachments/assets/a847e63a-500d-458c-8af3-d59d5b82ee2b" />
+<img width="2092" height="1506" alt="Price Distribution" src="https://github.com/user-attachments/assets/618ede0b-f8b6-4b41-941d-bd8acd46cd6d" />
 
 
 Visualizes the distribution of Airbnb listing prices.
@@ -206,7 +206,7 @@ Visualizes the distribution of Airbnb listing prices.
 ### Reviews vs Price
 
 
-<img width="2092" height="1506" alt="Reviews vs Price" src="https://github.com/user-attachments/assets/d06497d5-3321-4a34-90d6-7bbab18dff3c" />
+<img width="2092" height="1506" alt="Review vs Price" src="https://github.com/user-attachments/assets/dec54bdc-7907-4bea-9792-b63802b3be16" />
 
 
 Shows the relationship between listing price and customer reviews.
@@ -214,7 +214,7 @@ Shows the relationship between listing price and customer reviews.
 ### Availability Impact
 
 
-<img width="2092" height="1506" alt="Availability Impact" src="https://github.com/user-attachments/assets/353fd751-0fe7-4007-8ffc-67200673bb09" />
+<img width="2092" height="1506" alt="Availability Imapct" src="https://github.com/user-attachments/assets/969a07bc-b579-4100-b893-66b26ace6d05" />
 
 
 Analyzes how listing availability affects pricing.
@@ -222,7 +222,7 @@ Analyzes how listing availability affects pricing.
 ### Governance & KPI Summary
 
 
-<img width="862" height="498" alt="Governance   KPI Summary" src="https://github.com/user-attachments/assets/1b02ddd4-8f01-471a-b0d8-f6228a85d6fc" />
+<img width="1118" height="490" alt="Governance   KPI Summary" src="https://github.com/user-attachments/assets/23e003bf-70dd-4d23-902f-a05c9cdb10f5" />
 
 
 Displays key metrics:
@@ -236,7 +236,7 @@ Displays key metrics:
 ### Dashboard
 
 
-<img width="2458" height="1616" alt="Airbnb Market Intelligence Dashboard" src="https://github.com/user-attachments/assets/47f377f0-4077-4f78-8316-e4a9833bfb9f" />
+<img width="2458" height="1616" alt="Airbnb Analytics" src="https://github.com/user-attachments/assets/ffebb608-5028-4918-bbae-e989f842886b" />
 
 
 ---
